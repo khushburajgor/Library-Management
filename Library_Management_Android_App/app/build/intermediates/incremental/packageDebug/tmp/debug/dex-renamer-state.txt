@@ -1,0 +1,10 @@
+#Mon Aug 02 09:39:55 IST 2021
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=H\:\\Library_Management_Android_App\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+base.1=H\:\\Library_Management_Android_App\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+base.0=H\:\\Library_Management_Android_App\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
